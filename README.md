@@ -11,9 +11,10 @@ My expertise covers:
 
 -  **Deep Neural Networks** — design, training, and optimization  
 -  **Data Processing & Visualization** — transforming raw data into meaningful insights  
--  **Model Building & Fine-Tuning** — designing new architectures and improving pre-trained models for real-world performance  
--  **Computer Vision** — segmentation, detection, and generative modeling  
+-  **Model Building & Fine-Tuning** — designing new architectures and improving pre-trained models for real-world performance
 -  **Language Models (NLP)** — from text classification to transformer-based architectures
+-  **Computer Vision** — segmentation, detection, and generative modeling  
+
   
 I’m ready to collaborate on developing and improving deep neural network and language model–based solutions.
 
